@@ -100,14 +100,14 @@ function moveZombies(e) {
     }
 
   if(gridSquares[currentShooterIndex].classList.contains('zombie', 'shooter')) {
-    resultDisplay.textContent = 'Game Over';
+    resultDisplay.textContent = 'You Died... Horribly...';
     gridSquares[currentShooterIndex].classList.add('boom');
     clearInterval(zombieId);
   }
 
   for (let i = 0; i <= zombiePosition.length - 1; i++){
     if(zombiePosition[i] > (gridSquares.length - (width -1))){
-      resultDisplay.textContent = 'Game Over';
+      resultDisplay.textContent = 'You Died... Horribly...';
       clearInterval(zombieId);
     }
   }
@@ -115,7 +115,7 @@ function moveZombies(e) {
   if(zombieKilled.length === zombiePosition.length) {
     console.log(zombieKilled.length);
     console.log(zombiePosition.length);
-    resultDisplay.textContent = 'You Win';
+    resultDisplay.textContent = 'Hail to the King, Baby!';
     clearInterval(zombieId);
   }
 }
@@ -151,7 +151,7 @@ function shoot(e) {
   }
 
   switch(e.keyCode) {
-    case rockscissor:
+    case 32:
       laserId = setInterval(moveLaser, 100);
       break;
   }
