@@ -13,9 +13,9 @@ Making this game gave me an opportunity to put into use switch statements and al
 
 * [Wireframe](./images/spaceInvadersWireframe.odg)
 
-![Screenshot 1](images/Screenshot from 2020-10-08 22-59-30.png)
+![Screenshot 1](./images/Screenshot from 2020-10-08 22-59-30.png)
 
-![Screenshot 2](images/Screenshot from 2020-10-08 22-59-43.png)
+![Screenshot 2](./images/Screenshot from 2020-10-08 22-59-43.png)
 
 ---
 ### Technologies & Code Snippets
