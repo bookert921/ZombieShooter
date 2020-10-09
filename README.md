@@ -9,13 +9,11 @@ Move your character by using the left and right arrow keys and shoot with the sp
 Space Invaders was the first game I ever played as a child. I remember seeing an arcade machine of it in a corner store and while I was not really playing because I did not insert any money to do so, I definitely thought I was playing -- smashing buttons and snapping the joystick around.
 Making this game gave me an opportunity to put into use switch statements and all that I learned about loops. I also dynamically generated all the HTML.
 
-#### Wireframe and Screenshots
+#### Screenshots
 
-* [Wireframe](./images/spaceInvadersWireframe.odg)
+* [Screenshot 1](/images/Screenshot1.png)
 
-![Screenshot 1](./images/Screenshot1.png)
-
-![Screenshot 2](./images/Screenshot2.png)
+* [Screenshot 2](/images/Screenshot2.png)
 
 ---
 ### Technologies & Code Snippets
