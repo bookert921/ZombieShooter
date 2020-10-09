@@ -11,9 +11,9 @@ Making this game gave me an opportunity to put into use switch statements and al
 
 #### Screenshots
 
-* [Screenshot 1](/images/Screenshot1.png)
+* [Screenshot 1](project-one/images/Screenshot1.png)
 
-* [Screenshot 2](/images/Screenshot2.png)
+* [Screenshot 2](project-one/images/Screenshot2.png)
 
 ---
 ### Technologies & Code Snippets
